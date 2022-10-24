@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Consoantes {
@@ -18,5 +19,7 @@ public class Consoantes {
             }
         }
         System.out.println("Foram informadas " + quantConsoante + " consoante(s)");
+        System.out.println(Arrays.toString(consoantes));
+        
     }
 }

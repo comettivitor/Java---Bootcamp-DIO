@@ -1,4 +1,4 @@
-public class Exercicios1 {
+public class ExMetodos {
     public static void main(String[] args) {
         // Operacoes operacoes = new Operacoes();
         // operacoes.soma(5, 5);

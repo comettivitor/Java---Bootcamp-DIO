@@ -1,4 +1,4 @@
-public class Atividade1 {
+public class ExOperadores {
     
     public static void main(String[] args){
         Operadores op = new Operadores();

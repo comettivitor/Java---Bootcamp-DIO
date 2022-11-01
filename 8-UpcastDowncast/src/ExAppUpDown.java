@@ -1,4 +1,4 @@
-public class RodaAppUpDown {
+public class ExAppUpDown {
     public static void main(String[] args) throws Exception {
         Funcionario funcionario = new Funcionario();
 

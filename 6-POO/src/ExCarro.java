@@ -1,4 +1,4 @@
-public class AppCarro {
+public class ExCarro {
     public static void main(String[] args) throws Exception {
         Carro carro = new Carro();
 

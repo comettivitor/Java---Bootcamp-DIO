@@ -1,4 +1,4 @@
-public class App {
+public class ExSmartTV {
     public static void main(String[] args) throws Exception {
         SmartTV smartTv = new SmartTV();
 

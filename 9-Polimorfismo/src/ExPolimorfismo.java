@@ -1,4 +1,4 @@
-public class PolimorfismoApp {
+public class ExPolimorfismo {
     public static void main(String[] args) throws Exception {
         ClasseMae[] classes = new ClasseMae[]{
             new ClasseFilha1(),

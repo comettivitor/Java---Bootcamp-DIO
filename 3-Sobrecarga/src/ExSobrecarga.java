@@ -1,4 +1,4 @@
-public class Exercicio2 {
+public class ExSobrecarga {
     public static void main(String[] args) throws Exception {
         // Sobrecarga sobrecarga = new Sobrecarga();
         // sobrecarga.quadrado(5);
